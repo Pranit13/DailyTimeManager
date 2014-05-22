@@ -1,0 +1,27 @@
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes.dex : \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\AboutApp.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\AddTask$1.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\AddTask$2.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\AddTask$3.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\AddTask.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\BuildConfig.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\DailyTimeManager.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\DBHandle.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$array.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$attr.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$drawable.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$id.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$layout.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$menu.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$string.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R$style.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\R.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\SeeDailyTask$1.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\SeeDailyTask.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\TaskOnDate$1.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\TaskOnDate$2.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\TaskOnDate$3.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\TaskOnDate.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\classes\com\example\dailytimemanager\TodaysTask.class \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\dexedLibs\android-support-v4-308395eff40664e7a44fff5a27686c4f.jar \
+D:\AndroidSetUp\Android\DailyTimeManager\bin\dexedLibs\emma_device-5d515581acaa70b4aa8af2d7ebe7b708.jar \

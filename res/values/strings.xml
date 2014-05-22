@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">Daily Time Manager</string>
+    <string name="BackgroundString">Daily Time Manager</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_daily_time_manager">Daily Time Manager</string>
+    <string name="AddTaskButton">Add Task</string>
+    <string name="SeeDailyTaskButton">See Daily Task</string>
+    <string name="AboutButton">About App</string>
+    <string name="TaskDetails">Task ToDo:</string>
+    <string name="EnterTask" />
+    <string name="title_activity_add_task">Add Task:</string>
+    <string name="ToDoTime">To Do Time:</string>
+
+    <string-array name="SelectDay">
+        <item>Don\'t Repeat</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+        <item>Specified Date</item>
+    </string-array>
+
+    <string name="SaveButton">Save</string>
+    <string name="BackButton">Back</string>
+    <string name="RepeatOn">Repeat For:</string>
+    <string name="Colon">:</string>
+    <string name="ToDoDate">To Do Date:</string>
+    <string name="Place">Enter Place:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select_time">Select Time</string>
+    <string name="SelectTime">Select Time :</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Set">Set</string>
+    <string name="Time">Set Time</string>
+    <string name="Date">Set Date</string>
+    <string name="TimeFormat">hh:mm</string>
+    <string name="DateFormat">dd-mm-yyyy</string>
+    <string name="PlaceHint">Enter place to do task</string>
+    <string name="TaskHint">Enter task details</string>
+    <string name="SeeTodaysTask">See Todays Task</string>
+    <string name="SeeAllTask">See All Task</string>
+    <string name="SeeTaskOnSpecifiedDay">Task On Specific Date</string>
+    <string name="title_activity_see_daily_task">See Daily Task</string>
+    <string name="SeeDailyTask">Your daily tasks are as below:</string>
+    <string name="title_activity_todays_task">TodaysTask</string>
+    <string name="title_activity_task_on_date">Task On Date</string>
+    <string name="title_activity_about_app">About App</string>
+    <string name="AboutApp">Daily Time Manager will help you note down your task or important notes with time and place associated with them. This is the first version of this app which only supports storing your task or notes and viewing them in different categories. </string>
+    <string name="UpcomingFeatures">Soon the app will support:</string>
+    <string name="Upcoming1">- Checklist for completed tasks</string>
+    <string name="String2">- Widget with checklist on home screen</string>
+    <string name="Upcome3">- Reminder for task before 10 min</string>
+    <string name="Feedback">Hoping feedback from you for adding more features !</string>
+    <string name="email">Mail your feedbacks on: pranitmahajan@gmail.com</string>
+
+</resources>

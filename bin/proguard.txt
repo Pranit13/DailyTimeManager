@@ -1,0 +1,48 @@
+# view AndroidManifest.xml #generated:58
+-keep class com.example.dailytimemanager.AboutApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.example.dailytimemanager.AddTask { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.example.dailytimemanager.DailyTimeManager { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.example.dailytimemanager.SeeDailyTask { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.example.dailytimemanager.SelectTime { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.example.dailytimemanager.TaskOnDate { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.example.dailytimemanager.TodaysTask { <init>(...); }
+
+# onClick res/layout/activity_daily_time_manager.xml #generated:58
+-keepclassmembers class * { *** aboutApp(...); }
+
+# onClick res/layout/activity_daily_time_manager.xml #generated:15
+-keepclassmembers class * { *** addTask(...); }
+
+# onClick res/layout/activity_add_task.xml #generated:96
+-keepclassmembers class * { *** goBack(...); }
+
+# onClick res/layout/activity_add_task.xml #generated:106
+-keepclassmembers class * { *** save(...); }
+
+# onClick res/layout/activity_daily_time_manager.xml #generated:36
+-keepclassmembers class * { *** seeDailyTask(...); }
+
+# onClick res/layout/activity_daily_time_manager.xml #generated:47
+-keepclassmembers class * { *** seeTaskOnSpecificDate(...); }
+
+# onClick res/layout/activity_daily_time_manager.xml #generated:25
+-keepclassmembers class * { *** seeTodaysTask(...); }
+
+# onClick res/layout/activity_add_task.xml #generated:49
+-keepclassmembers class * { *** selectDate(...); }
+
+# onClick res/layout/activity_add_task.xml #generated:63
+-keepclassmembers class * { *** selectTime(...); }
+
